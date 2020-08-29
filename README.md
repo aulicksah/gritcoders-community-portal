@@ -1,7 +1,7 @@
 # gritcoders-community-portal
 
 VISION:
-To mentor and motivate girls in tech and make them aware about the opportunities available in the IT industry. To expand our community globally with a vision to help beginners enhance their technical skills and knowledge and help them grow as successful individuals. 
+- To mentor and motivate girls in tech and make them aware about the opportunities available in the IT industry. To expand our community globally with a vision to     help beginners enhance their technical skills and knowledge and help them grow as successful individuals. 
 
 
 OBJECTIVE:
