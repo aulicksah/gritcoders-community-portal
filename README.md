@@ -15,4 +15,9 @@ DESCRIPTION(What do we do?):
 - We believe in “If you want to go fast, go alone. If you want to go far, go together”.
 - Let’s utilize this platform to have fun and networking.
 
+INITIATIVE:
+If anyone wants to take initiative in contributing to the community you need to submit a document stating:
+1) About your intiative?
+2) Why or How did you come up with this initiative?
+3) How will your initiative benefit this community?
 
