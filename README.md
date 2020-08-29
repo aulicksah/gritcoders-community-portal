@@ -22,6 +22,13 @@ If anyone wants to take initiative in contributing to the community you need to 
 2) Why or How did you come up with this initiative?
 3) How will your initiative benefit this community?
 
-PLAN:
+We are present on various social media and the links are:
+- Discord - https://discord.gg/ckHufJx
+- Instagram Handle - https://www.instagram.com/gritcoders/
 
-An android application will handle all the new announcements, updates, sessions and events taking place. 
+However, We are mainly going to be active on Discord as there you can chitchat, play games and network.
+
+PLAN:
+* An android application will handle all the new announcements, updates, sessions and events taking place. 
+* Sessions about the opportunities
+* Writing a roadmap to get started
