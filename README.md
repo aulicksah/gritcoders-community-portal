@@ -35,4 +35,4 @@ However, We are mainly going to be active on Discord as there you can chitchat, 
 * Writing a roadmap to get started
 
 
-**All ideas on tech stack are welcome. Please share all ideas/feedback on our Discord Server or mail us on gritcoders1@gmail.com.
+**All ideas on tech stack are welcome. Please share all ideas/feedback on our Discord Server or mail us on gritcoders1@gmail.com.**
